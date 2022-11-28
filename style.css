@@ -59,7 +59,7 @@ body{
     position: relative;
     padding-left: 30px;
     margin-top: 20px;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
 
 }
 /* START OF DROP DOWN NAV TEST */
@@ -88,9 +88,9 @@ body{
     position: relative;
 }
 
-.dropdownnavchildsection:hover .dropdownnavchild{
+ .dropdownnavchildsection:hover .dropdownnavchild{
     display: block;
-}
+} 
 
 .dropdownnavchild{
     display: none;
